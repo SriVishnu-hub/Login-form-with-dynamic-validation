@@ -11,4 +11,4 @@ This project is a responsive login form built using HTML, CSS, and JavaScript, f
 ⚠️ Dynamic real-time validation messages
 
 🎨 Custom design with a background image and styled input fields
-Technical : #html,#inline css,#java script
+(Technical : #html,#inline css,#java script)
